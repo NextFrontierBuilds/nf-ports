@@ -1,5 +1,5 @@
 {
-  "name": "ports-cli",
+  "name": "nf-ports",
   "version": "1.0.0",
   "description": "Dev server port manager for macOS. List, scan, and kill processes on ports. Find what's using port 3000. Works with Claude, Cursor, Copilot.",
   "main": "index.js",
@@ -26,11 +26,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NextFrontierBuilds/ports-cli"
+    "url": "https://github.com/NextFrontierBuilds/nf-ports"
   },
-  "homepage": "https://github.com/NextFrontierBuilds/ports-cli#readme",
+  "homepage": "https://github.com/NextFrontierBuilds/nf-ports#readme",
   "bugs": {
-    "url": "https://github.com/NextFrontierBuilds/ports-cli/issues"
+    "url": "https://github.com/NextFrontierBuilds/nf-ports/issues"
   },
   "engines": {
     "node": ">=14"

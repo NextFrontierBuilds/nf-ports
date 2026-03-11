@@ -1,7 +1,7 @@
-# ports-cli
+# nf-ports
 
-[![npm version](https://img.shields.io/npm/v/ports-cli.svg)](https://www.npmjs.com/package/ports-cli)
-[![downloads](https://img.shields.io/npm/dm/ports-cli.svg)](https://www.npmjs.com/package/ports-cli)
+[![npm version](https://img.shields.io/npm/v/nf-ports.svg)](https://www.npmjs.com/package/nf-ports)
+[![downloads](https://img.shields.io/npm/dm/nf-ports.svg)](https://www.npmjs.com/package/nf-ports)
 
 Dev server port manager for macOS. Stop guessing what's using port 3000.
 
